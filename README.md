@@ -1,4 +1,4 @@
-# Welcome to Reflex!
+# Welcome to my frst Reflex App 😎!
 
 This is the base Reflex template - installed when you run `reflex init`.
 
